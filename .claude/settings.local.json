@@ -1,0 +1,8 @@
+{
+  "disabledMcpjsonServers": [
+    "context7",
+    "playwright",
+    "sequential-thinking",
+    "shadcn"
+  ]
+}
